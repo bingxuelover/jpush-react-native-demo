@@ -2,7 +2,9 @@
 
 react native 的推送实现使用 jpush-react-native
 
-参考[说明文档]:  <http://www.huangyuhong.com/2018/05/react-native-jpush/?preview_id=912&preview_nonce=0d845ced0d&post_format=aside&_thumbnail_id=-1&preview=true>
+参考  [说明文档][1].
+
+[1]: http://www.huangyuhong.com/2018/05/react-native-jpush/?preview_id=912&preview_nonce=0d845ced0d&post_format=aside&_thumbnail_id=-1&preview=true
 
 # Android
 
